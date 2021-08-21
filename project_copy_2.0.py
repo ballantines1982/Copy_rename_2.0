@@ -115,3 +115,4 @@ print("Copy and Rename 2.0")
 preCheck()
 input()
 
+#Man bör kunna göra allt detta med en loop, till och med med numpy eller panda.

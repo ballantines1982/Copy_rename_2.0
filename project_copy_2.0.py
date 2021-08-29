@@ -4,6 +4,8 @@ from tkinter.filedialog import askdirectory
 import tkinter
 import openpyxl
 from datetime import datetime
+import re
+import time
 
 current_dir = os.getcwd()
 excel_file = 'copy-data.xlsx'
@@ -15,7 +17,7 @@ sheet = wb['Blad1']
 
 root = tkinter.Tk()
 root.withdraw()
-
+startTime = time.time()
 
 
 def openWriteFile(new_file, from_source):
@@ -82,10 +84,14 @@ def createFiles():
     file = open("logfile.txt", "a+")
     file.write("Job complete " + time + "\n" + str(counter) + " files copied.\r\n")    
     file.close()
-
+    import time
     print("Done!")  
     print(counter, "files duplicated and renamed!")
     print(failCounter, "empty cell in Excel file, therefore no action")
+    endTime = time.time()
+    jobTime = (endTime - startTime)
+    #jobTimeFormat = endTime.strftime("%H:%M:%S")
+    print(f"Job complete in: {jobTime:.2f} sek")
 
 def preCheck():
     print("Checking source files vs Excel file...")
@@ -113,6 +119,24 @@ def preCheck():
 
 print("Copy and Rename 2.0")
 preCheck()
+
+import re
+def listToString(list):
+    str1 = ""
+    return (str1.join(list))
+
+sumList = []
+file = open("logfile.txt", "r")
+for i in file:
+    if "files copied" in i:
+        digits = re.findall("[1-9]", i)
+        count = listToString(digits)
+        sumList.append(int(count))
+totalSum = sum(sumList)
+timeSave = (totalSum * 7 /60)/60      
+print(f"All time count: {totalSum} files copied")
+print(f"Time savings: {timeSave:.2f} hours")   
+
 input()
 
 #Man bör kunna göra allt detta med en loop, till och med med numpy eller panda.

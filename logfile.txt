@@ -4055,3 +4055,653 @@ Job started at 2021-08-12, 21:58:36
 2021-08-12, 21:58:36: Created: C:/Users/svard/OneDrive/Skrivbord/Test 5\245916_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
 Job complete 2021-08-12, 21:58:36
 21 files copied.
+-----------------------------------------
+Job started at 2021-08-28, 21:29:25
+-----------------------------------------
+2021-08-28, 21:29:25: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245905_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-28, 21:29:25: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245905_02.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_02.jpg
+2021-08-28, 21:29:25: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245906_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-28, 21:29:25: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245907_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-28, 21:29:25: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245907_02.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_02.jpg
+2021-08-28, 21:29:25: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245908_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-28, 21:29:25: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245908_02.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_02.jpg
+2021-08-28, 21:29:25: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245909_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:29:25: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245909_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:29:25: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245910_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:29:25: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245910_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:29:25: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245911_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:29:25: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245911_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:29:25: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245912_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:29:25: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245912_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:29:25: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245914_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:29:25: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245914_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:29:25: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245915_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:29:25: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245915_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:29:25: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245916_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:29:25: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245916_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+Job complete 2021-08-28, 21:29:25
+21 files copied.
+-----------------------------------------
+Job started at 2021-08-28, 21:29:52
+-----------------------------------------
+2021-08-28, 21:29:52: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245905_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-28, 21:29:52: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245905_02.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_02.jpg
+2021-08-28, 21:29:52: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245906_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-28, 21:29:52: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245907_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-28, 21:29:52: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245907_02.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_02.jpg
+2021-08-28, 21:29:52: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245908_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-28, 21:29:52: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245908_02.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_02.jpg
+2021-08-28, 21:29:52: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245909_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:29:52: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245909_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:29:52: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245910_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:29:52: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245910_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:29:52: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245911_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:29:52: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245911_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:29:52: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245912_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:29:52: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245912_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:29:52: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245914_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:29:52: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245914_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:29:52: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245915_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:29:52: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245915_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:29:52: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245916_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:29:52: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245916_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+Job complete 2021-08-28, 21:29:52
+21 files copied.
+-----------------------------------------
+Job started at 2021-08-28, 21:30:39
+-----------------------------------------
+2021-08-28, 21:30:39: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245905_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-28, 21:30:39: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245905_02.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_02.jpg
+2021-08-28, 21:30:39: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245906_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-28, 21:30:39: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245907_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-28, 21:30:39: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245907_02.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_02.jpg
+2021-08-28, 21:30:39: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245908_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-28, 21:30:39: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245908_02.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_02.jpg
+2021-08-28, 21:30:39: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245909_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:30:39: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245909_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:30:39: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245910_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:30:39: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245910_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:30:39: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245911_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:30:39: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245911_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:30:39: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245912_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:30:39: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245912_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:30:39: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245914_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:30:39: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245914_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:30:39: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245915_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:30:39: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245915_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:30:39: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245916_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:30:39: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245916_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+Job complete 2021-08-28, 21:30:39
+21 files copied.
+-----------------------------------------
+Job started at 2021-08-28, 21:34:31
+-----------------------------------------
+2021-08-28, 21:34:31: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245905_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-28, 21:34:31: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245905_02.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_02.jpg
+2021-08-28, 21:34:31: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245906_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-28, 21:34:31: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245907_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-28, 21:34:31: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245907_02.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_02.jpg
+2021-08-28, 21:34:31: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245908_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-28, 21:34:31: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245908_02.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_02.jpg
+2021-08-28, 21:34:31: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245909_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:34:31: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245909_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:34:31: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245910_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:34:31: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245910_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:34:31: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245911_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:34:31: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245911_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:34:31: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245912_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:34:31: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245912_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:34:31: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245914_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:34:31: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245914_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:34:31: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245915_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:34:31: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245915_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:34:31: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245916_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:34:31: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245916_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+Job complete 2021-08-28, 21:34:31
+21 files copied.
+-----------------------------------------
+Job started at 2021-08-28, 21:39:22
+-----------------------------------------
+2021-08-28, 21:39:22: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245905_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-28, 21:39:22: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245905_02.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_02.jpg
+2021-08-28, 21:39:22: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245906_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-28, 21:39:22: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245907_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-28, 21:39:22: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245907_02.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_02.jpg
+2021-08-28, 21:39:22: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245908_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-28, 21:39:22: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245908_02.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_02.jpg
+2021-08-28, 21:39:22: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245909_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:39:22: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245909_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:39:22: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245910_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:39:22: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245910_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:39:22: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245911_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:39:22: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245911_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:39:22: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245912_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:39:22: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245912_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:39:22: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245914_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:39:22: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245914_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:39:22: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245915_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:39:22: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245915_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:39:22: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245916_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:39:22: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245916_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+Job complete 2021-08-28, 21:39:22
+21 files copied.
+-----------------------------------------
+Job started at 2021-08-28, 21:41:55
+-----------------------------------------
+2021-08-28, 21:41:55: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245905_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-28, 21:41:55: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245905_02.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_02.jpg
+2021-08-28, 21:41:55: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245906_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-28, 21:41:55: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245907_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-28, 21:41:55: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245907_02.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_02.jpg
+2021-08-28, 21:41:55: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245908_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-28, 21:41:55: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245908_02.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_02.jpg
+2021-08-28, 21:41:55: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245909_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:41:55: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245909_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:41:55: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245910_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:41:55: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245910_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:41:55: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245911_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:41:56: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245911_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:41:56: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245912_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:41:56: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245912_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:41:56: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245914_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:41:56: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245914_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:41:56: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245915_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:41:56: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245915_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:41:56: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245916_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:41:56: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245916_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+Job complete 2021-08-28, 21:41:55
+21 files copied.
+-----------------------------------------
+Job started at 2021-08-28, 21:42:23
+-----------------------------------------
+2021-08-28, 21:42:23: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245905_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-28, 21:42:23: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245905_02.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_02.jpg
+2021-08-28, 21:42:23: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245906_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-28, 21:42:23: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245907_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-28, 21:42:23: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245907_02.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_02.jpg
+2021-08-28, 21:42:23: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245908_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-28, 21:42:23: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245908_02.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_02.jpg
+2021-08-28, 21:42:23: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245909_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:42:23: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245909_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:42:23: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245910_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:42:23: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245910_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:42:23: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245911_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:42:23: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245911_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:42:23: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245912_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:42:23: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245912_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:42:23: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245914_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:42:23: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245914_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:42:23: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245915_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:42:23: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245915_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:42:23: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245916_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:42:23: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245916_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+Job complete 2021-08-28, 21:42:23
+21 files copied.
+-----------------------------------------
+Job started at 2021-08-28, 21:44:59
+-----------------------------------------
+2021-08-28, 21:44:59: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245905_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-28, 21:44:59: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245905_02.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_02.jpg
+2021-08-28, 21:44:59: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245906_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-28, 21:44:59: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245907_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-28, 21:44:59: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245907_02.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_02.jpg
+2021-08-28, 21:44:59: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245908_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-28, 21:44:59: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245908_02.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_02.jpg
+2021-08-28, 21:44:59: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245909_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:44:59: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245909_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:44:59: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245910_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:44:59: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245910_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:44:59: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245911_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:44:59: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245911_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:44:59: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245912_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:44:59: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245912_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:44:59: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245914_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:44:59: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245914_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:44:59: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245915_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:44:59: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245915_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:44:59: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245916_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:44:59: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245916_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+Job complete 2021-08-28, 21:44:59
+21 files copied.
+-----------------------------------------
+Job started at 2021-08-28, 21:50:49
+-----------------------------------------
+2021-08-28, 21:50:49: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245905_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-28, 21:50:49: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245905_02.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_02.jpg
+2021-08-28, 21:50:49: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245906_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-28, 21:50:49: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245907_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-28, 21:50:49: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245907_02.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_02.jpg
+2021-08-28, 21:50:49: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245908_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-28, 21:50:49: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245908_02.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_02.jpg
+2021-08-28, 21:50:49: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245909_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:50:49: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245909_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:50:49: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245910_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:50:49: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245910_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:50:49: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245911_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:50:49: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245911_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:50:49: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245912_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:50:49: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245912_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:50:49: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245914_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:50:49: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245914_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:50:49: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245915_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:50:49: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245915_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:50:49: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245916_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:50:49: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245916_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+Job complete 2021-08-28, 21:50:49
+21 files copied.
+-----------------------------------------
+Job started at 2021-08-28, 21:51:25
+-----------------------------------------
+2021-08-28, 21:51:25: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245905_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-28, 21:51:25: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245905_02.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_02.jpg
+2021-08-28, 21:51:25: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245906_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-28, 21:51:25: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245907_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-28, 21:51:25: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245907_02.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_02.jpg
+2021-08-28, 21:51:25: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245908_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-28, 21:51:25: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245908_02.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_02.jpg
+2021-08-28, 21:51:25: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245909_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:51:25: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245909_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:51:25: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245910_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:51:25: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245910_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:51:25: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245911_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:51:25: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245911_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:51:25: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245912_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:51:25: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245912_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:51:25: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245914_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:51:25: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245914_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:51:25: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245915_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:51:25: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245915_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:51:25: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245916_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:51:25: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245916_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+Job complete 2021-08-28, 21:51:25
+21 files copied.
+-----------------------------------------
+Job started at 2021-08-28, 21:53:13
+-----------------------------------------
+2021-08-28, 21:53:13: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245905_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-28, 21:53:13: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245905_02.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_02.jpg
+2021-08-28, 21:53:13: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245906_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-28, 21:53:13: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245907_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-28, 21:53:13: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245907_02.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_02.jpg
+2021-08-28, 21:53:13: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245908_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-28, 21:53:13: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245908_02.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_02.jpg
+2021-08-28, 21:53:13: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245909_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:53:13: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245909_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:53:13: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245910_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:53:13: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245910_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:53:13: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245911_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:53:13: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245911_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:53:13: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245912_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:53:13: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245912_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:53:13: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245914_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:53:13: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245914_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:53:13: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245915_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:53:13: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245915_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:53:13: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245916_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:53:13: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245916_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+Job complete 2021-08-28, 21:53:13
+21 files copied.
+-----------------------------------------
+Job started at 2021-08-28, 21:54:56
+-----------------------------------------
+2021-08-28, 21:54:56: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245905_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-28, 21:54:56: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245905_02.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_02.jpg
+2021-08-28, 21:54:56: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245906_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-28, 21:54:56: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245907_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-28, 21:54:56: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245907_02.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_02.jpg
+2021-08-28, 21:54:56: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245908_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-28, 21:54:56: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245908_02.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_02.jpg
+2021-08-28, 21:54:56: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245909_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:54:56: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245909_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:54:56: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245910_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:54:56: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245910_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:54:56: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245911_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:54:56: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245911_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:54:56: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245912_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:54:56: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245912_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:54:56: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245914_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:54:56: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245914_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:54:56: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245915_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:54:56: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245915_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:54:56: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245916_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:54:56: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245916_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+Job complete 2021-08-28, 21:54:56
+21 files copied.
+-----------------------------------------
+Job started at 2021-08-28, 21:59:01
+-----------------------------------------
+2021-08-28, 21:59:01: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245905_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-28, 21:59:01: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245905_02.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_02.jpg
+2021-08-28, 21:59:01: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245906_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-28, 21:59:01: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245907_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-28, 21:59:01: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245907_02.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_02.jpg
+2021-08-28, 21:59:01: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245908_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-28, 21:59:01: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245908_02.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_02.jpg
+2021-08-28, 21:59:01: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245909_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:59:01: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245909_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:59:01: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245910_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:59:01: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245910_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:59:01: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245911_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:59:01: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245911_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:59:01: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245912_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:59:01: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245912_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:59:01: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245914_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:59:01: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245914_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:59:01: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245915_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:59:01: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245915_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:59:01: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245916_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:59:01: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245916_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+Job complete 2021-08-28, 21:59:01
+21 files copied.
+-----------------------------------------
+Job started at 2021-08-28, 21:59:26
+-----------------------------------------
+2021-08-28, 21:59:26: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245905_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-28, 21:59:26: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245905_02.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_02.jpg
+2021-08-28, 21:59:26: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245906_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-28, 21:59:26: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245907_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-28, 21:59:26: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245907_02.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_02.jpg
+2021-08-28, 21:59:26: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245908_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-28, 21:59:26: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245908_02.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_02.jpg
+2021-08-28, 21:59:26: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245909_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:59:26: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245909_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:59:26: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245910_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:59:26: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245910_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:59:26: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245911_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:59:26: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245911_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:59:26: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245912_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:59:26: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245912_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:59:26: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245914_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:59:26: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245914_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:59:26: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245915_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:59:26: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245915_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 21:59:26: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245916_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 21:59:26: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245916_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+Job complete 2021-08-28, 21:59:26
+21 files copied.
+-----------------------------------------
+Job started at 2021-08-28, 22:01:27
+-----------------------------------------
+2021-08-28, 22:01:27: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245905_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-28, 22:01:27: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245905_02.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_02.jpg
+2021-08-28, 22:01:27: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245906_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-28, 22:01:27: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245907_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-28, 22:01:27: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245907_02.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_02.jpg
+2021-08-28, 22:01:27: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245908_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-28, 22:01:27: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245908_02.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_02.jpg
+2021-08-28, 22:01:27: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245909_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 22:01:27: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245909_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 22:01:27: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245910_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 22:01:27: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245910_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 22:01:27: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245911_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 22:01:27: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245911_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 22:01:27: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245912_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 22:01:27: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245912_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 22:01:27: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245914_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 22:01:27: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245914_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 22:01:27: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245915_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 22:01:27: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245915_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 22:01:27: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245916_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 22:01:27: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245916_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+Job complete 2021-08-28, 22:01:27
+21 files copied.
+-----------------------------------------
+Job started at 2021-08-28, 22:02:23
+-----------------------------------------
+2021-08-28, 22:02:23: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245905_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-28, 22:02:23: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245905_02.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_02.jpg
+2021-08-28, 22:02:23: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245906_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-28, 22:02:23: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245907_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-28, 22:02:23: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245907_02.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_02.jpg
+2021-08-28, 22:02:23: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245908_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-28, 22:02:23: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245908_02.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_02.jpg
+2021-08-28, 22:02:23: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245909_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 22:02:23: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245909_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 22:02:23: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245910_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 22:02:23: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245910_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 22:02:23: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245911_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 22:02:23: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245911_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 22:02:23: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245912_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 22:02:23: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245912_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 22:02:23: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245914_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 22:02:23: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245914_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 22:02:23: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245915_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 22:02:23: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245915_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-28, 22:02:23: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245916_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-28, 22:02:23: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245916_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+Job complete 2021-08-28, 22:02:23
+21 files copied.
+-----------------------------------------
+Job started at 2021-08-29, 10:19:19
+-----------------------------------------
+2021-08-29, 10:19:19: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245905_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-29, 10:19:19: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245905_02.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_02.jpg
+2021-08-29, 10:19:19: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245906_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-29, 10:19:19: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245907_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-29, 10:19:19: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245907_02.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_02.jpg
+2021-08-29, 10:19:19: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245908_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-29, 10:19:19: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245908_02.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_02.jpg
+2021-08-29, 10:19:19: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245909_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-29, 10:19:19: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245909_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-29, 10:19:19: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245910_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-29, 10:19:19: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245910_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-29, 10:19:19: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245911_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-29, 10:19:19: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245911_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-29, 10:19:19: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245912_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-29, 10:19:19: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245912_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-29, 10:19:19: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245914_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-29, 10:19:19: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245914_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-29, 10:19:19: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245915_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-29, 10:19:19: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245915_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-29, 10:19:19: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245916_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-29, 10:19:19: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245916_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+Job complete 2021-08-29, 10:19:19
+21 files copied.
+-----------------------------------------
+Job started at 2021-08-29, 10:19:46
+-----------------------------------------
+2021-08-29, 10:19:46: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245905_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-29, 10:19:46: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245905_02.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_02.jpg
+2021-08-29, 10:19:46: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245906_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-29, 10:19:46: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245907_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-29, 10:19:46: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245907_02.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_02.jpg
+2021-08-29, 10:19:46: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245908_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-29, 10:19:46: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245908_02.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_02.jpg
+2021-08-29, 10:19:46: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245909_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-29, 10:19:46: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245909_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-29, 10:19:46: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245910_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-29, 10:19:46: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245910_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-29, 10:19:46: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245911_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-29, 10:19:46: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245911_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-29, 10:19:46: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245912_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-29, 10:19:46: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245912_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-29, 10:19:46: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245914_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-29, 10:19:46: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245914_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-29, 10:19:46: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245915_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-29, 10:19:46: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245915_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-29, 10:19:46: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245916_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-29, 10:19:46: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245916_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+Job complete 2021-08-29, 10:19:46
+21 files copied.
+-----------------------------------------
+Job started at 2021-08-29, 10:20:40
+-----------------------------------------
+2021-08-29, 10:20:40: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245905_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-29, 10:20:40: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245905_02.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_02.jpg
+2021-08-29, 10:20:40: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245906_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-29, 10:20:40: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245907_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-29, 10:20:40: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245907_02.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_02.jpg
+2021-08-29, 10:20:40: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245908_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-29, 10:20:40: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245908_02.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_02.jpg
+2021-08-29, 10:20:40: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245909_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-29, 10:20:40: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245909_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-29, 10:20:40: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245910_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-29, 10:20:40: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245910_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-29, 10:20:40: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245911_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-29, 10:20:40: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245911_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-29, 10:20:40: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245912_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-29, 10:20:40: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245912_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-29, 10:20:40: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245914_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-29, 10:20:40: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245914_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-29, 10:20:40: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245915_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-29, 10:20:40: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245915_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-29, 10:20:40: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245916_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-29, 10:20:40: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245916_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+Job complete 2021-08-29, 10:20:40
+21 files copied.
+-----------------------------------------
+Job started at 2021-08-29, 10:20:57
+-----------------------------------------
+2021-08-29, 10:20:57: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245905_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-29, 10:20:57: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245905_02.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_02.jpg
+2021-08-29, 10:20:57: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245906_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-29, 10:20:57: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245907_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-29, 10:20:57: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245907_02.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_02.jpg
+2021-08-29, 10:20:57: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245908_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-29, 10:20:57: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245908_02.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_02.jpg
+2021-08-29, 10:20:57: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245909_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-29, 10:20:57: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245909_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-29, 10:20:57: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245910_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-29, 10:20:57: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245910_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-29, 10:20:57: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245911_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-29, 10:20:57: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245911_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-29, 10:20:57: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245912_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-29, 10:20:57: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245912_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-29, 10:20:57: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245914_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-29, 10:20:57: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245914_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-29, 10:20:57: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245915_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-29, 10:20:57: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245915_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-29, 10:20:57: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245916_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-29, 10:20:57: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245916_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+Job complete 2021-08-29, 10:20:57
+21 files copied.
+-----------------------------------------
+Job started at 2021-08-29, 10:35:21
+-----------------------------------------
+2021-08-29, 10:35:21: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245905_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-29, 10:35:21: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245905_02.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_02.jpg
+2021-08-29, 10:35:21: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245906_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-29, 10:35:21: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245907_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-29, 10:35:21: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245907_02.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_02.jpg
+2021-08-29, 10:35:21: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245908_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-29, 10:35:21: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245908_02.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_02.jpg
+2021-08-29, 10:35:21: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245909_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-29, 10:35:21: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245909_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-29, 10:35:21: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245910_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-29, 10:35:21: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245910_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-29, 10:35:21: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245911_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-29, 10:35:21: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245911_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-29, 10:35:21: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245912_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-29, 10:35:21: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245912_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-29, 10:35:21: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245914_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-29, 10:35:21: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245914_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-29, 10:35:21: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245915_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-29, 10:35:21: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245915_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-29, 10:35:21: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245916_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-29, 10:35:21: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245916_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+Job complete 2021-08-29, 10:35:21
+21 files copied.
+-----------------------------------------
+Job started at 2021-08-29, 10:36:46
+-----------------------------------------
+2021-08-29, 10:36:46: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245905_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-29, 10:36:46: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245905_02.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_02.jpg
+2021-08-29, 10:36:46: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245906_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-29, 10:36:46: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245907_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-29, 10:36:46: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245907_02.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_02.jpg
+2021-08-29, 10:36:46: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245908_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-29, 10:36:46: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245908_02.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_02.jpg
+2021-08-29, 10:36:46: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245909_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-29, 10:36:46: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245909_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-29, 10:36:46: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245910_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-29, 10:36:46: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245910_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-29, 10:36:46: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245911_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-29, 10:36:46: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245911_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-29, 10:36:46: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245912_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-29, 10:36:46: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245912_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-29, 10:36:46: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245914_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-29, 10:36:46: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245914_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-29, 10:36:46: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245915_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-29, 10:36:46: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245915_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-29, 10:36:46: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245916_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-29, 10:36:46: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245916_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+Job complete 2021-08-29, 10:36:46
+21 files copied.
+-----------------------------------------
+Job started at 2021-08-29, 10:41:31
+-----------------------------------------
+2021-08-29, 10:41:31: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245905_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-29, 10:41:31: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245905_02.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_02.jpg
+2021-08-29, 10:41:31: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245906_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-29, 10:41:31: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245907_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-29, 10:41:31: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245907_02.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_02.jpg
+2021-08-29, 10:41:31: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245908_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-29, 10:41:31: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245908_02.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_02.jpg
+2021-08-29, 10:41:31: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245909_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-29, 10:41:31: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245909_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-29, 10:41:31: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245910_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-29, 10:41:31: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245910_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-29, 10:41:31: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245911_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-29, 10:41:31: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245911_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-29, 10:41:31: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245912_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-29, 10:41:31: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245912_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-29, 10:41:31: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245914_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-29, 10:41:31: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245914_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-29, 10:41:31: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245915_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-29, 10:41:31: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245915_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-29, 10:41:31: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245916_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-29, 10:41:31: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245916_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+Job complete 2021-08-29, 10:41:31
+21 files copied.
+-----------------------------------------
+Job started at 2021-08-29, 10:42:52
+-----------------------------------------
+2021-08-29, 10:42:52: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245905_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-29, 10:42:52: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245905_02.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_02.jpg
+2021-08-29, 10:42:52: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245906_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-29, 10:42:52: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245907_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-29, 10:42:52: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245907_02.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_02.jpg
+2021-08-29, 10:42:52: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245908_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-29, 10:42:52: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245908_02.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_02.jpg
+2021-08-29, 10:42:52: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245909_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-29, 10:42:52: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245909_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-29, 10:42:52: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245910_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-29, 10:42:52: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245910_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-29, 10:42:52: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245911_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-29, 10:42:52: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245911_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-29, 10:42:52: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245912_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-29, 10:42:52: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245912_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-29, 10:42:52: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245914_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-29, 10:42:52: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245914_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-29, 10:42:52: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245915_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-29, 10:42:52: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245915_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-29, 10:42:52: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245916_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-29, 10:42:52: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245916_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+Job complete 2021-08-29, 10:42:52
+21 files copied.
+-----------------------------------------
+Job started at 2021-08-29, 10:43:22
+-----------------------------------------
+2021-08-29, 10:43:22: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245905_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-29, 10:43:22: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245905_02.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_02.jpg
+2021-08-29, 10:43:22: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245906_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-29, 10:43:22: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245907_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-29, 10:43:22: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245907_02.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_02.jpg
+2021-08-29, 10:43:22: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245908_01.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_01.jpg
+2021-08-29, 10:43:22: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245908_02.jpg From: C:\Python Projekt\Assets\bilder\06131-630-09_02.jpg
+2021-08-29, 10:43:22: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245909_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-29, 10:43:22: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245909_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-29, 10:43:22: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245910_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-29, 10:43:22: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245910_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-29, 10:43:22: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245911_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-29, 10:43:22: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245911_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-29, 10:43:22: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245912_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-29, 10:43:22: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245912_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-29, 10:43:22: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245914_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-29, 10:43:22: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245914_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-29, 10:43:22: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245915_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-29, 10:43:22: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245915_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+2021-08-29, 10:43:22: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245916_01.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_01.jpg
+2021-08-29, 10:43:22: Created: C:/Users/svard/OneDrive/Skrivbord/Test1\245916_02.jpg From: C:\Python Projekt\Assets\bilder 2\06131-630-09_02.jpg
+Job complete 2021-08-29, 10:43:22
+21 files copied.

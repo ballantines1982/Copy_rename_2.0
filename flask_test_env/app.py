@@ -1,7 +1,7 @@
 from flask import Flask, request, render_template, redirect, url_for
 from flask_sqlalchemy import SQLAlchemy
 from datetime import datetime
-import sys
+
 
 app = Flask(__name__, static_url_path='/static')
 app.secret_key = 'Alice'

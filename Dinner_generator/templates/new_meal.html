@@ -1,0 +1,13 @@
+{% extends 'index.html' %}
+
+{% block content %}
+    <table border = 0>
+        {% for key, value in form.items() %}
+            <tr>
+                <th>{{ key }}</th>
+                <td>{{ value }}</td>
+            </tr>
+        {% endfor %}
+    </table>
+{% endblock %}
+    

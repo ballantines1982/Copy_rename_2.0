@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/992d260d-4b8b-4af8-9fca-43f8a68d45ac/AppServices/subscriptions/992d260d-4b8b-4af8-9fca-43f8a68d45ac/resourceGroups/dinner-selector-XYZ_group/providers/Microsoft.Web/sites/dinner-selector-XYZ/Deployments/subscriptions/992d260d-4b8b-4af8-9fca-43f8a68d45ac/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/grublist-PS",
+    "appService.deploySubpath": "."
+}

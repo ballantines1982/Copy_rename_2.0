@@ -1,0 +1,35 @@
+
+April-Juli 2021 (4m)
+Antal (p)    11544.94
+Antal (s)     8785.50
+Sum          20330.44
+
+April-Juli 2022 (4m)
+Antal (p)     5846.25
+Antal (s)     9695.00
+Sum          15541.25
+
+April 2021 - Mars 2022 (12m)
+Antal (p)     6558.904615
+Antal (s)     6584.538462
+Sum          13143.443077
+
+Hela 2021 (12m)
+Antal (p)     6620.73
+Antal (s)     7898.50
+Sum          14519.23
+
+November 2020 - Oktober 2021 (12m)
+Antal (p)     6849.646667
+Antal (s)     6488.000000
+Sum          13337.646667
+
+Augisti 2021 - Juli 2022 (12m)
+Antal (p)     4935.916667
+Antal (s)     6572.083333
+Sum          11508.000000
+
+2022 tom Juli (7m)
+Antal (p)     5380.428571
+Antal (s)     6768.714286
+Sum          12149.142857

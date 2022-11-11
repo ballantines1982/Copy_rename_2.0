@@ -1,0 +1,10 @@
+
+Example from https://www.patternsgameprog.com
+
+Requirements:
+ - anaconda with Python 3: https://www.anaconda.com/distribution/#download-section
+ - Pygame: in anaconda prompt, run "pip install pygame"
+
+To run, in anaconda prompt:
+ - go to the folder with "tankgame.py"
+ - run "python tankgame.py"

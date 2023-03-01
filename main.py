@@ -15,7 +15,7 @@ class mainFrame(ttk.Frame):
 
         options = {'pady': 10, 'padx': 10}
 
-        self.labelTitle = ttk.Label(self, text="Copy Rename 2.1")
+        self.labelTitle = ttk.Label(self, text="Copy Rename 3.1")
         self.labelTitle.grid(column=0, row=0, sticky=tk.NW, **options)
 
         self.labelFrameGuide = ttk.LabelFrame(self, text="Instruktioner")

@@ -15,7 +15,7 @@ class mainFrame(ttk.Frame):
 
         options = {'pady': 10, 'padx': 10}
 
-        self.labelTitle = ttk.Label(self, text="Copy Rename 3.1")
+        self.labelTitle = ttk.Label(self, text="Copy Rename 3.1 STEP")
         self.labelTitle.grid(column=0, row=0, sticky=tk.NW, **options)
 
         self.labelFrameGuide = ttk.LabelFrame(self, text="Instruktioner")
@@ -131,7 +131,7 @@ class mainFrame(ttk.Frame):
                     fileExtention = char[-4:]
 
             # Copying the primary picture and renaming it according the the Excel file.
-            file_name_front = str(row[3])+"_h1"+str(fileExtention)
+            file_name_front = str(row[3])+"_1"+str(fileExtention)
             source_file_n_path_front = os.path.join(row[0], str(row[1]))
             file_n_path_destination_front = os.path.join(
                 folder_n_path, file_name_front)
@@ -147,7 +147,7 @@ class mainFrame(ttk.Frame):
                 continue
 
             # Copying the secondary picture and renaming it according the the Excel file.
-            file_name_back = str(row[3])+"_h2"+str(fileExtention)
+            file_name_back = str(row[3])+"_2"+str(fileExtention)
             source_file_n_path_back = os.path.join(row[0], str(row[2]))
             file_n_path_destination_back = os.path.join(
                 folder_n_path, file_name_back)
@@ -185,7 +185,7 @@ class Main(tk.Tk):
         super().__init__()
 
         self.geometry('410x400')
-        self.title("Copy Rename 2.1")
+        self.title("Copy Rename 3.1")
         self.resizable(False, False)
         self.attributes('-alpha', 0.92)
 

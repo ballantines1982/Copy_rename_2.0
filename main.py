@@ -185,7 +185,7 @@ class Main(tk.Tk):
         super().__init__()
 
         self.geometry('410x400')
-        self.title("Copy Rename 2.1")
+        self.title("Copy Rename 3.1")
         self.resizable(False, False)
         self.attributes('-alpha', 0.92)
 

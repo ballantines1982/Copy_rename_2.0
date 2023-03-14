@@ -127,8 +127,12 @@ class mainFrame(ttk.Frame):
 
         for row in self.sheet.iter_rows(min_row=2, max_col=4, values_only=True):
             for char in row:
-                if type(char) is str:
+                print(f'char: {char}')
+                if isinstance(char, str) and ".jpg" in char:
                     fileExtention = char[-4:]
+                    print(f'fileExtension: {fileExtention}')
+                else:
+                    continue
 
             # Copying the primary picture and renaming it according the the Excel file.
             file_name_front = str(row[3])+"_1"+str(fileExtention)

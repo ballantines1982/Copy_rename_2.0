@@ -15,7 +15,7 @@ class mainFrame(ttk.Frame):
 
         options = {'pady': 10, 'padx': 10}
 
-        self.labelTitle = ttk.Label(self, text="Copy Rename 3.2 STEP")
+        self.labelTitle = ttk.Label(self, text="Copy Rename 3.3 STEP")
         self.labelTitle.grid(column=0, row=0, sticky=tk.NW, **options)
 
         self.labelFrameGuide = ttk.LabelFrame(self, text="Instruktioner")
@@ -66,122 +66,145 @@ class mainFrame(ttk.Frame):
         file.close()
 
     def preCheck(self):
+        self.statusText.delete("1.0", tk.END)
         try:
             self.wb = openpyxl.load_workbook(self.excel_file_n_path)
             self.sheet = self.wb['Blad1']
+        except PermissionError:
+            self.statusText.insert(
+                tk.END, "ERROR: Vänligen stäng " + self.excel_file)
         except Exception as e:
             self.statusText.insert(tk.END, e)
         else:
             self.statusText.insert(
-                tk.END, f'{self.excel_file} hittad! Fortsätter...')
+                tk.END, f'{self.excel_file} hittad! Fortsätter...\n')
         self.statusText.insert(
-            tk.END, "\nKontrollerar sökvägar i Excelfilen...")
+            tk.END, "Kontrollerar sökvägar i Excelfilen...\n")
 
         missing_files = []
+        # picture_names = []
         path_list = []
+
         try:
             for row in self.sheet.iter_rows(min_row=2, max_col=3, values_only=True):
+
                 for pic in range(1, 3):
-                    path_list.append(row[pic])
 
-                files_in_dir = os.listdir(row[0])
+                    if row[pic] != None:
+                        picture_names = row[pic]
+                        path_to_source_folder = row[0]
+                        full_path = os.path.join(
+                            path_to_source_folder, picture_names)
+                        # path_list.append(full_path)
+                        if os.path.isfile(full_path) != True:
+                            missing_files.append(picture_names)
+                            self.statusText.insert(
+                                tk.END, "Bild saknas: " + picture_names + "\n")
 
-                for i in path_list:
-                    if i not in files_in_dir and not i == None:
-                        missing_files.append(i)
+        except PermissionError:
+            self.statusText.insert(
+                tk.END, "ERROR: Vänligen stäng " + self.excel_file)
         except Exception as e:
             self.statusText.insert(tk.END, e)
         else:
             if len(missing_files) <= 0:
                 self.statusText.insert(
-                    tk.END, "\nAlla bilder hittade! \nKontroll OK!")
+                    tk.END, "Alla bilder hittade! \nKontroll OK!\n")
                 self.btnRun['state'] = tk.NORMAL
             else:
                 missing_files_set = set(missing_files)
                 missing_files_unique = list(missing_files_set)
                 self.statusText.insert(
-                    tk.END, f'\nMissing {len(missing_files_unique)} source files: {missing_files_unique}')
+                    tk.END, f'Saknar totalt {len(missing_files_unique)} bild/bilder')
 
     def createFiles(self):
         folder_n_path = askdirectory(title='--------Välj Folder för bilderna')
+        if folder_n_path:
 
-        try:
-            makeFolder = os.makedirs(folder_n_path)
-            self.statusText.insert(
-                tk.END, "\nMappen saknas, skapar mapp...")
-        except:
-            self.statusText.insert(
-                tk.END, "\nMappen hittad, fortsätter...\n")
+            try:
+                makeFolder = os.makedirs(folder_n_path)
+                self.statusText.insert(
+                    tk.END, "\nMappen saknas, skapar mapp...")
+            except:
+                self.statusText.insert(
+                    tk.END, "Mappen hittad, fortsätter...\n")
 
-        counter = 0
-        failCounter = 0
+            counter = 0
+            failCounter = 0
 
-        # Logfile.txt
-        now = datetime.now()
-        time = now.strftime("%Y-%m-%d, %H:%M:%S")
-        file = open("logfile.txt", "a+")
-        file.write("-----------------------------------------\n")
-        file.write("Job started at " + time + "\n")
-        file.write("-----------------------------------------\n")
-        file.close()
+            # Logfile.txt
+            now = datetime.now()
+            time = now.strftime("%Y-%m-%d, %H:%M:%S")
+            file = open("logfile.txt", "a+")
+            file.write("-----------------------------------------\n")
+            file.write("Job started at " + time + "\n")
+            file.write("-----------------------------------------\n")
+            file.close()
 
-        for row in self.sheet.iter_rows(min_row=2, max_col=4, values_only=True):
-            for char in row:
-                print(f'char: {char}')
-                if isinstance(char, str) and ".jpg" in char:
-                    fileExtention = char[-4:]
-                    print(f'fileExtension: {fileExtention}')
-                else:
-                    continue
+            try:
+                for row in self.sheet.iter_rows(min_row=2, max_col=4, values_only=True):
+                    for char in row:
+                        if isinstance(char, str):
+                            if ".jpg" in char:
+                                fileExtention = char[-4:]
 
-            # Copying the primary picture and renaming it according the the Excel file.
-            file_name_front = str(row[3])+"_1"+str(fileExtention)
-            source_file_n_path_front = os.path.join(row[0], str(row[1]))
-            file_n_path_destination_front = os.path.join(
-                folder_n_path, file_name_front)
-            if row[1] != None:
-                shutil.copy(source_file_n_path_front,
-                            file_n_path_destination_front)
-                self.statusText.insert(tk.END, '.')
-                counter += 1
-                self.openWriteFile(str(file_n_path_destination_front),
-                                   str(source_file_n_path_front))
-            else:
-                failCounter += 1
-                continue
+                            if ".jpeg" in char:
+                                fileExtention = char[-5:]
 
-            # Copying the secondary picture and renaming it according the the Excel file.
-            file_name_back = str(row[3])+"_2"+str(fileExtention)
-            source_file_n_path_back = os.path.join(row[0], str(row[2]))
-            file_n_path_destination_back = os.path.join(
-                folder_n_path, file_name_back)
-            if row[2] != None:
-                shutil.copy(source_file_n_path_back,
-                            file_n_path_destination_back)
-                self.statusText.insert(tk.END, '.')
-                counter += 1
-                self.openWriteFile(str(file_n_path_destination_back),
-                                   str(source_file_n_path_back))
-            else:
-                failCounter += 1
-                continue
+                    # Copying the primary picture and renaming it according the the Excel file.
+                    file_name_front = str(row[3])+"_1"+str(fileExtention)
+                    source_file_n_path_front = os.path.join(
+                        row[0], str(row[1]))
+                    file_n_path_destination_front = os.path.join(
+                        folder_n_path, file_name_front)
+                    if row[1] != None:
+                        shutil.copy(source_file_n_path_front,
+                                    file_n_path_destination_front)
+                        self.statusText.insert(tk.END, '.')
+                        counter += 1
+                        self.openWriteFile(str(file_n_path_destination_front),
+                                           str(source_file_n_path_front))
+                    else:
+                        failCounter += 1
+                        continue
 
-        file = open("logfile.txt", "a+")
-        file.write("Job complete " + time + "\n" +
-                   str(counter) + " files copied.\r\n")
-        file.close()
+                    # Copying the secondary picture and renaming it according the the Excel file.
+                    file_name_back = str(row[3])+"_2"+str(fileExtention)
+                    source_file_n_path_back = os.path.join(row[0], str(row[2]))
+                    file_n_path_destination_back = os.path.join(
+                        folder_n_path, file_name_back)
+                    if row[2] != None:
+                        shutil.copy(source_file_n_path_back,
+                                    file_n_path_destination_back)
+                        self.statusText.insert(tk.END, '.')
+                        counter += 1
+                        self.openWriteFile(str(file_n_path_destination_back),
+                                           str(source_file_n_path_back))
+                    else:
+                        failCounter += 1
+                        continue
 
-        self.statusText.insert(tk.END, "\nKLAR!\n")
-        self.statusText.insert(
-            tk.END, f'\n{counter} bilder skapade!')
-        self.statusText.insert(
-            tk.END, f'\n{failCounter} celler tomma och ignorerades')
+                file = open("logfile.txt", "a+")
+                file.write("Job complete " + time + "\n" +
+                           str(counter) + " files copied.\r\n")
+                file.close()
+
+                self.statusText.insert(tk.END, "\nKLAR!\n")
+                self.statusText.insert(
+                    tk.END, f'\n{counter} bilder skapade!')
+                self.statusText.insert(
+                    tk.END, f'\n{failCounter} celler tomma och ignorerades')
+            except PermissionError:
+                self.statusText.insert(
+                    tk.END, "ERROR: Vänligen stäng " + self.excel_file)
+            except Exception as error:
+                self.statusText.insert(tk.END, error)
 
     def openExcelFile(self):
         try:
             os.startfile(self.excel_file_n_path)
         except Exception as e:
-            print(e)
+            self.statusText.insert(e, tk.END)
 
 
 class Main(tk.Tk):
@@ -189,7 +212,7 @@ class Main(tk.Tk):
         super().__init__()
 
         self.geometry('410x400')
-        self.title("Copy Rename 3.2 STEP")
+        self.title("Copy Rename 3.3 STEP")
         self.resizable(False, False)
         self.attributes('-alpha', 0.92)
 

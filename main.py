@@ -98,8 +98,6 @@ class mainFrame(ttk.Frame):
                         # path_list.append(full_path)
                         if os.path.isfile(full_path) != True:
                             missing_files.append(picture_names)
-                            self.statusText.insert(
-                                tk.END, "Bild saknas: " + picture_names + "\n")
 
         except PermissionError:
             self.statusText.insert(

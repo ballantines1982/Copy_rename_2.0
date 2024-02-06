@@ -86,9 +86,9 @@ class mainFrame(ttk.Frame):
         path_list = []
 
         try:
-            for row in self.sheet.iter_rows(min_row=2, max_col=3, values_only=True):
+            for row in self.sheet.iter_rows(min_row=2, max_col=5, values_only=True):
 
-                for pic in range(1, 3):
+                for pic in range(1, 5):
 
                     if row[pic] != None:
                         picture_names = row[pic]
@@ -113,7 +113,11 @@ class mainFrame(ttk.Frame):
                 missing_files_set = set(missing_files)
                 missing_files_unique = list(missing_files_set)
                 self.statusText.insert(
-                    tk.END, f'Saknar totalt {len(missing_files_unique)} bild/bilder')
+                    tk.END, f'Saknar totalt {len(missing_files_unique)} bild/bilder:\n')
+                for pic in missing_files_unique:
+                    self.statusText.insert(
+                        tk.END, f'{pic}\n')
+                        
 
     def createFiles(self):
         folder_n_path = askdirectory(title='--------Välj Folder för bilderna')
@@ -140,7 +144,7 @@ class mainFrame(ttk.Frame):
             file.close()
 
             try:
-                for row in self.sheet.iter_rows(min_row=2, max_col=4, values_only=True):
+                for row in self.sheet.iter_rows(min_row=2, max_col=6, values_only=True):
                     for char in row:
                         if isinstance(char, str):
                             if ".jpg" in char:
@@ -150,7 +154,7 @@ class mainFrame(ttk.Frame):
                                 fileExtention = char[-5:]
 
                     # Copying the primary picture and renaming it according the the Excel file.
-                    file_name_front = str(row[3])+"_1"+str(fileExtention)
+                    file_name_front = str(row[5])+"_1"+str(fileExtention)
                     source_file_n_path_front = os.path.join(
                         row[0], str(row[1]))
                     file_n_path_destination_front = os.path.join(
@@ -158,8 +162,10 @@ class mainFrame(ttk.Frame):
                     if row[1] != None:
                         shutil.copy(source_file_n_path_front,
                                     file_n_path_destination_front)
+                        # Adding a dot (.) in the UI
                         self.statusText.insert(tk.END, '.')
                         counter += 1
+                        # Logging
                         self.openWriteFile(str(file_n_path_destination_front),
                                            str(source_file_n_path_front))
                     else:
@@ -167,21 +173,62 @@ class mainFrame(ttk.Frame):
                         continue
 
                     # Copying the secondary picture and renaming it according the the Excel file.
-                    file_name_back = str(row[3])+"_2"+str(fileExtention)
+                    file_name_back = str(row[5])+"_2"+str(fileExtention)
                     source_file_n_path_back = os.path.join(row[0], str(row[2]))
                     file_n_path_destination_back = os.path.join(
                         folder_n_path, file_name_back)
                     if row[2] != None:
                         shutil.copy(source_file_n_path_back,
                                     file_n_path_destination_back)
+                        # Adding a dot (.) in the UI
                         self.statusText.insert(tk.END, '.')
                         counter += 1
+                        # Logging
                         self.openWriteFile(str(file_n_path_destination_back),
                                            str(source_file_n_path_back))
                     else:
                         failCounter += 1
                         continue
 
+                    # Copying the primary picture and renaming it according the the Excel file.
+                    file_name_third = str(row[5])+"_3"+str(fileExtention)
+                    source_file_n_path_third = os.path.join(
+                        row[0], str(row[3]))
+                    file_n_path_destination_third = os.path.join(
+                        folder_n_path, file_name_third)
+                    if row[3] != None:
+                        shutil.copy(source_file_n_path_third,
+                                    file_n_path_destination_third)
+                        # Adding a dot (.) in the UI
+                        self.statusText.insert(tk.END, '.')
+                        counter += 1
+                        # Logging
+                        self.openWriteFile(str(file_n_path_destination_third),
+                                           str(source_file_n_path_third))
+                    else:
+                        failCounter += 1
+                        continue
+                    
+                    # Copying the primary picture and renaming it according the the Excel file.
+                    file_name_forth = str(row[5])+"_4"+str(fileExtention)
+                    source_file_n_path_forth = os.path.join(
+                        row[0], str(row[4]))
+                    file_n_path_destination_forth = os.path.join(
+                        folder_n_path, file_name_forth)
+                    if row[4] != None:
+                        shutil.copy(source_file_n_path_forth,
+                                    file_n_path_destination_forth)
+                        # Adding a dot (.) in the UI
+                        self.statusText.insert(tk.END, '.')
+                        counter += 1
+                        # Logging
+                        self.openWriteFile(str(file_n_path_destination_forth),
+                                           str(source_file_n_path_forth))
+                    else:
+                        failCounter += 1
+                        continue
+                    
+                    
                 file = open("logfile.txt", "a+")
                 file.write("Job complete " + time + "\n" +
                            str(counter) + " files copied.\r\n")

@@ -15,7 +15,7 @@ class mainFrame(ttk.Frame):
 
         options = {'pady': 10, 'padx': 10}
 
-        self.labelTitle = ttk.Label(self, text="Copy Rename 3.3 STEP")
+        self.labelTitle = ttk.Label(self, text="Copy Rename 4.0 STEP")
         self.labelTitle.grid(column=0, row=0, sticky=tk.NW, **options)
 
         self.labelFrameGuide = ttk.LabelFrame(self, text="Instruktioner")
@@ -257,7 +257,7 @@ class Main(tk.Tk):
         super().__init__()
 
         self.geometry('410x400')
-        self.title("Copy Rename 3.3 STEP")
+        self.title("Copy Rename 4.0 STEP")
         self.resizable(False, False)
         self.attributes('-alpha', 0.92)
 
